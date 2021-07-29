@@ -1,4 +1,4 @@
-// 1.56
+// 1.57
 //着迷
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
