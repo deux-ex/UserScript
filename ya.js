@@ -1,5 +1,5 @@
 // 1.58
-//着迷
+//王亚迷
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 
