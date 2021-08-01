@@ -1,5 +1,5 @@
 // 1.65
-//王亚迷
+//王
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 
