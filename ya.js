@@ -1,4 +1,4 @@
-// 1.60
+// 1.61
 //王亚迷
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
