@@ -1,4 +1,4 @@
-// 1.70
+// 1.71
 //王
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
