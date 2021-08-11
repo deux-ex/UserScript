@@ -8,11 +8,8 @@ var num = 10;
 
 var items = [
 'Acvjp2D0sxB4D286cemug1AcaBtb73j9zD3D',
-'Acvjp2D28i94yafm5odk2AcaB1973j9zD3D',
 'Acvjp2D0mtl2E286cemug1AcaB9r63j9zD3D',
-'A4q76txtppr7qz5mlFydF2B2F2F7A31',
 'Aopggxtpkzy8tz5mlFydF2B2F2F7A21',
-'Ao5xzzuzjjwruz5mlFydF2B2F2F7A11',
 'A8xjzqd8j2fgpz5mlFydF2B2F2F7A01',
 ];
 
