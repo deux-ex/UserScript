@@ -1,9 +1,9 @@
-// 1.82
+// 1.83
 //我自己
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/mrme.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/mrme.js
 var UrlName = 'qquqq';
-var num = 3;
+var num = 1;
 var timeStart = 500;
 var timeEnd = 700;
 
