@@ -1,11 +1,12 @@
-// 1.84
-//王
+// 1.85
+//王亚
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 var UrlName = '';
 var num = 4;
 var timeStart = 300;
 var timeEnd = 500;
+
 var items = [
 'Acqu6kcno1D0zfvfvkFydF2F2Fgpge',
 'Aopoa2ekeb1xnkxhlFydF2F2Ffpge',
