@@ -1,8 +1,8 @@
 //2.0
 var UrlName = 'qquqq';
 var num = 3;
-var timeStart = 500;
-var timeEnd = 700;
+var timeStart = 3000;
+var timeEnd = 5000;
 
 var items = [
 'Aau0xqpl4xia3u16sue4AcaB2Fl45jmcD3D',
