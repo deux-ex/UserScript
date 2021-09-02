@@ -1,8 +1,8 @@
   
-// 1.2
+// 1.3
 //mh
 var UrlName = 'mh';
-var num = 1;
+var num = 3;
 var timeStart = 3000;
 var timeEnd = 6500;
 
