@@ -1,7 +1,7 @@
 // 1.1
 //RR
 var UrlName = 'RR';
-var num = 1;
+var num = 5;
 var timeStart = 2000;
 var timeEnd = 5000;
 
