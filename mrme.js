@@ -3,7 +3,7 @@
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/mrme.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/mrme.js
 var UrlName = 'qquqq';
-var num = 1;
+var num = 3;
 var timeStart = 500;
 var timeEnd = 700;
 
