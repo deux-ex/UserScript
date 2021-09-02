@@ -1,5 +1,5 @@
   
-// 1.0
+// 1.1
 //我mh
 // https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/mrme.js
 // https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/mrme.js
