@@ -1,12 +1,10 @@
   
-// 1.1
-//我mh
-// https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/mrme.js
-// https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/mrme.js
-var UrlName = 'qquqq';
+// 1.2
+//mh
+var UrlName = 'mh';
 var num = 1;
-var timeStart = 500;
-var timeEnd = 700;
+var timeStart = 3000;
+var timeEnd = 6500;
 
 var items = [
 'Acqu6kcno1D0zfvfvkFydF2F2Fgpge',
