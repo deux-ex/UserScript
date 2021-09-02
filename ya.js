@@ -1,11 +1,9 @@
 // 1.87
 //王亚
-// https://cdn.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
-// https://purge.jsdelivr.net/gh/deux-ex/UserScript@latest/ya.js
 var UrlName = '';
-var num = 4;
-var timeStart = 300;
-var timeEnd = 500;
+var num = 6;
+var timeStart = 200;
+var timeEnd = 600;
 
 var items = [
 'Acqu6kcno1D0zfvfvkFydF2F2Fgpge',
