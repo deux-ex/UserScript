@@ -2,9 +2,9 @@
 // 1.3
 //mh
 var UrlName = 'mh';
-var num = 3;
-var timeStart = 3000;
-var timeEnd = 6500;
+var num = 5;
+var timeStart = 2000;
+var timeEnd = 5000;
 
 var items = [
 'Acqu6kcno1D0zfvfvkFydF2F2Fgpge',
