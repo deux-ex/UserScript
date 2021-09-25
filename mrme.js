@@ -2,8 +2,8 @@
 //本人
 var UrlName = 'ZOO';
 var num = 3;
-var timeStart = 4000;
-var timeEnd = 6000;
+var timeStart = 100;
+var timeEnd = 500;
 
 var items = [
 'Aiujzdrzbh4E286cemug1AcaF9vltv9nD3D',
