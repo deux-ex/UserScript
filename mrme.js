@@ -1,7 +1,7 @@
 //2.21
 //本人
 var UrlName = 'ZOO';
-var num = 3;
+var num = 1;
 var timeStart = 100;
 var timeEnd = 500;
 
